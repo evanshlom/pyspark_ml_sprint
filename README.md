@@ -1,2 +1,4 @@
 # pyspark_ml_web_app
-quicky sunday hackathon from training and serializing a model to streamlit script for machine learning web app development and deployment 
+This python notebook demonstrates a formula for prototyping a machine learning model quickly. In the notebook, there are two pipelines. The first pipeline ingests training data, then trains and saves a new model. The second pipeline serves the model.
+
+The second algorithm would be ready for deployment using components from Snowflake's Streamlit library.
